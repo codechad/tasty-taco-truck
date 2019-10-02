@@ -212,19 +212,19 @@ footer a {
 }
 
 #taco-truck {
-	width: 40%;
+	width: 50%;
 	float: left;
 	text-align: center;
 }
 
 #contact, #credits {
-	width: 30%;
-	float: left;
+	width: 40%;
+	float: right;
 	line-height: 20px;
 }
 
 #contact ul, #credits ul {
-	padding: 20px;
+	padding: 10px;
 }
 
 #contact li, #credits li {
@@ -240,7 +240,8 @@ footer a {
 	color: #fff;
 	font-size: 24px;
 	font-weight: bold;
-	padding-left: 20px;
+	padding-left: 10px;
+	padding-right: 20px;
 }
 
 #contact strong, #credits strong {
